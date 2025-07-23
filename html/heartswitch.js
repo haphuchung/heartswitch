@@ -9,10 +9,10 @@
         message.textContent = "";
       } else if (checkedCount === 1) {
         document.body.style.backgroundColor = "#fbe0e8ff";
-        message.textContent = "Tớ thích cậu! ❤️";
+        message.textContent = "Tớ thích cậu! ❤";
       } else {
         document.body.style.backgroundColor = "#ffc1d6";
-        message.textContent = "Tớ thực sự thích cậu rất rất nhiều! ❤️❤️❤️";
+        message.textContent = "Tớ thực sự thích cậu rất rất nhiều! ❤❤❤";
       }
     }
 
